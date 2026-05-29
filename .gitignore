@@ -1,0 +1,36 @@
+# Arduino / PlatformIO
+.pio/
+.vscode/
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+
+# Build artifacts
+build/
+*.o
+*.a
+*.d
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Secrets (never commit credentials!)
+config_secrets.h
+secrets.h
+wifi_credentials.h
+
+# Logs
+*.log
+serial_log.txt
+
+# Backup files
+*.bak
+*~
