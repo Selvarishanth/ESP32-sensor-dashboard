@@ -1,11 +1,9 @@
 # 🌡️ IoT-Based Temperature & Humidity Monitoring Dashboard
 
-![Arduino](https://img.shields.io/badge/Platform-ESP32-blue?logo=arduino&logoColor=white)
-![Sensor](https://img.shields.io/badge/Sensor-DHT22-green)
-![IoT](https://img.shields.io/badge/Cloud-Blynk%20IoT-purple)
-![Status](https://img.shields.io/badge/Build-Working-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
+![Code](c:\Users\Hacke\Downloads\esp32_dht22_blynk.ino)
+![Circuit Diagram](c:\Users\Hacke\AppData\Local\GitHubDesktop\app-3.5.11\Public\ESP32 sensor dashboard\Circuit Diagram.png)
+![IoT](https://blynk.cloud)
+  
 > A real-time IoT system that reads temperature, humidity, and heat index using a DHT22 sensor on an ESP32, displays live data on a 16x2 LCD, and streams it to a cloud dashboard via Blynk — accessible from anywhere on your phone or browser.
 
 ---
@@ -185,10 +183,10 @@ iot-dht22-dashboard/
 
 ## 👤 Author
 
-**[Your Name]**
-B.E. / B.Tech — [Your Branch], [Your College]
-📧 [your.email@example.com]
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**[Selvarishanth]**
+B.E. / B.Tech — [ Electronics And Instrumentation Engineering], [SRMIST]
+📧 [Selvarishatnh.sridhar@example.com]
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/selvarishanth-sridhar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
